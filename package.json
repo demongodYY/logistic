@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "dev": "parcel  -p 3000 watch index.html",
-    "build": "parcel build index.html  --out-dir doc"
+    "build": "parcel build index.html  --out-dir docs"
   },
   "author": "",
   "license": "ISC",
